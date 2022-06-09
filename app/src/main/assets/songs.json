@@ -1,0 +1,21 @@
+[
+  {
+    "file": "mp3s/001.mp3",
+    "title": "ErroR CODE",
+    "artist": "Who-ya Extended",
+    "albumArt": "album/001.jpg",
+    "note": "songs/stage_01.txt"
+  },{
+    "file": "mp3s/002.mp3",
+    "title": "Icy Ivy",
+    "artist": "Who-ya Extended",
+    "albumArt": "album/002.jpg",
+    "note": "songs/stage_02.txt"
+  },{
+    "file": "mp3s/003.mp3",
+    "title": "Q-vism",
+    "artist": "Who-ya Extended",
+    "albumArt": "album/003.jpg",
+    "note": "songs/stage_03.txt"
+  }
+]
